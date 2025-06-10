@@ -1,0 +1,20 @@
+1.Frodo - 6
+2.Bilbo - 6
+3.Legolas - Nao encontrado
+4.Pippin - 7
+5.Merry - 7
+6.Galadriel - Nao encontrado
+7.Butterbur - 6
+8.Sam - 6
+9.Faramir - Nao encontrado
+10.Peregrin - 6
+11.Gandalf - 7
+12.Gollum - 7
+13.Bombadil - 6
+14.Elrond - 7
+15.Sauron - 6
+16.Aragorn - 6
+17.Saruman - 6
+18.Gildor - 6
+19.Elanor - Nao encontrado
+20.Morgoth - Nao encontrado
